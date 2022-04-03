@@ -6,10 +6,10 @@ Tento projekt slouží k extrahování volebních výsledků z voleb v roce 2017
 **Instalace knihoven**
 
 Použité knihovny jsou uloženy v requirements.txt. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně: 
-
+'''
 $ pip3 --version				            # ověřím verzi manažeru
 $ pip3 install -r requirements.txt 	# nainstalujeme knihovny
-
+''
 **Spuštění projektu**
 
 Spuštění souboru election_scraper.py 
